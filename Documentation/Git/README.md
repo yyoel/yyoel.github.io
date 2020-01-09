@@ -6,4 +6,4 @@
 
 ## Tips
 
-* [Create multiple github account on one machine](https://pacolemon.blogspot.com/2020/01/how-to-add-multiple-github-account-on_9.html)
+* [How to add multiple github account on one machine](https://pacolemon.blogspot.com/2020/01/how-to-add-multiple-github-account-on_9.html)
